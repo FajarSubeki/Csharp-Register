@@ -1,0 +1,23 @@
+D:\PROJECT\PROJECT visual C#\Register\Register\bin\Debug\Register.exe.config
+D:\PROJECT\PROJECT visual C#\Register\Register\bin\Debug\Register.exe
+D:\PROJECT\PROJECT visual C#\Register\Register\bin\Debug\Register.pdb
+D:\PROJECT\PROJECT visual C#\Register\Register\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.daftar.resources
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.Form1.resources
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.Properties.Resources.resources
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.user.resources
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.exe
+D:\PROJECT\PROJECT visual C#\Register\Register\obj\Debug\Register.pdb
+E:\Kodingan\C#\Register\Register\bin\Debug\Register.exe.config
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.exe
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.pdb
+E:\Kodingan\C#\Register\Register\bin\Debug\Register.exe
+E:\Kodingan\C#\Register\Register\bin\Debug\Register.pdb
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.daftar.resources
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.Form1.resources
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.user.resources
+E:\Kodingan\C#\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
